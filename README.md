@@ -38,6 +38,6 @@ USAGE:
     cargo run -- [OPTIONS]
 
 OPTIONS:
-    -p, --probability <COUNT>    Probability of each event occurring
-    -c, --count                  Number of times each event could happen
+    -p, --probability <PROBABILITY>    Probability of each event occurring
+    -c, --count <COUNT>                Number of times each event could happen
 ```
